@@ -1,0 +1,23 @@
+{
+    "name": "arktik-access-public",
+    "version": "1.0.0",
+    "description": "Public-facing version of ARKTIK ACCESS, showcasing core services and components.",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "author": "ARKTIK Initiative",
+    "license": "SEE LICENSE IN LICENSE",
+    "dependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0",
+      "react-router-dom": "^6.0.0"
+    },
+    "devDependencies": {
+      "react-scripts": "5.0.1"
+    }
+  }
+  
